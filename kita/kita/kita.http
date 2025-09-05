@@ -1,0 +1,6 @@
+@kita_HostAddress = http://localhost:5055
+
+GET {{kita_HostAddress}}/
+Accept: application/json
+
+###
