@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9168c3336073cca7de7db7dd1372b250b3824e24")]
 [assembly: System.Reflection.AssemblyProductAttribute("kita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
